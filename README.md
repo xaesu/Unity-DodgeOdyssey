@@ -1,8 +1,9 @@
 # Dodge Odyssey
 `Unity` `3D` `Android` `Game`
 <br>
-`Playstore` https://is.gd/B5lXNw
-
+`Playstore` &nbsp; [다운로드 바로가기](https://play.google.com/store/apps/details?id=com.xaesu.DodgeOdyssey)
+<br>
+`Youtube` &nbsp; [소개 영상 보러가기](https://www.youtube.com/watch?v=zNZ6H86qwTM)
 <br>
 
 ```
